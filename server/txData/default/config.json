@@ -33,13 +33,17 @@
   },
   "discordBot": {
     "enabled": false,
+    "token": "",
+    "announceChannel": false,
     "prefix": "/",
     "statusMessage": "**IP:** `change-me:<port>`\n**Players:** <players>\n**Uptime:** <uptime>"
   },
   "fxRunner": {
+    "serverDataPath": "/home/xschahl/ftp/GTRP_FIVE/server/data/",
+    "cfgPath": "/home/xschahl/ftp/GTRP_FIVE/server/data/server.cfg",
+    "commandLine": "",
+    "onesync": "on",
     "autostart": true,
-    "serverDataPath": "/home/schahl_xavier/GTRP_FIVE/server/data/",
-    "cfgPath": "/home/schahl_xavier/GTRP_FIVE/server/data/server.cfg",
-    "onesync": "on"
+    "quiet": false
   }
 }
