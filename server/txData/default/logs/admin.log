@@ -1,0 +1,12 @@
+
+================================================================
+======== txAdmin Starting - 4/12/2023, 8:42:15 AM               
+================================================================
+[08:42:53] [Xavier_Schahl] created admins file
+[08:43:33] [Xavier_Schahl] Changing global settings via setup stepper and started Deployer.
+[08:43:38] [Xavier_Schahl] Setting recipe.
+[08:43:43] [Xavier_Schahl] Running recipe.
+[08:44:23] [Xavier_Schahl] Completed and committed server deploy.
+[08:48:22] [Xavier_Schahl] RESTART SERVER
+[09:07:26] [Xavier_Schahl] Changing global settings.
+[09:08:16] [Xavier_Schahl] Changing Player Controller settings.

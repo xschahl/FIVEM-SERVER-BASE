@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Xavier_Schahl",
+    "master": true,
+    "password_hash": "$2a$11$0VG3ZhIdDiRU21fXejTHWu.l8qSCXqimyHmCDxbi6sL7i9565RhAK",
+    "providers": {
+      "citizenfx": {
+        "id": "Xavier_Schahl",
+        "identifier": "fivem:1778547",
+        "data": {
+          "sub": "ca9e2aa12c457f892d3af1fdf899ff6a",
+          "nameid": "https://forum.cfx.re/internal/user/1778547",
+          "name": "Xavier_Schahl",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/xavier_schahl/256/965952_2.png",
+          "profile": "https://forum.cfx.re/u/Xavier_Schahl"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
